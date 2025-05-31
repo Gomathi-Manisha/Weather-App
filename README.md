@@ -1,15 +1,13 @@
-# 🌤️ Animated Weather App
+# 🌤️ Animated Weather App #
 A responsive, modern weather app built using React, TailwindCSS, and Vite. It features:
 
-# 🌐 Live weather data via OpenWeatherMap API
+** 🌐 Live weather data via OpenWeatherMap API **
 
-# 🌗 Light/Dark Mode toggle with emoji-style switch
+** 🌗 Light/Dark Mode toggle with emoji-style switch **
 
-#  Animated gradient background
+**  Animated gradient background **
 
-📱 Fully responsive UI
-
-Loading animation and styled components
+** 📱 Fully responsive UI **
 
 📸 Preview
 ![Light mode](https://github.com/user-attachments/assets/51a956c8-e390-4d19-abf3-3047f61a44c7)
